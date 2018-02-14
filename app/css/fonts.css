@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "BebasNeue";
+  src: url("../fonts/BebasNeueRegular/BebasNeueRegular.eot"),url("../fonts/BebasNeueRegular/BebasNeueRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/BebasNeueRegular/BebasNeueRegular.woff") format("woff"), url("../fonts/BebasNeueRegular/BebasNeueRegular.woff2") format("woff2"), url("../fonts/BebasNeueRegular/BebasNeueRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+@font-face {
+  font-family: "BebasNeueBold";
+  src: url("../fonts/BebasNeueBold/BebasNeueBold.eot"),url("../fonts/BebasNeueBold/BebasNeueBold.eot?#iefix") format("embedded-opentype"), url("../fonts/BebasNeueBold/BebasNeueBold.woff") format("woff"), url("../fonts/BebasNeueBold/BebasNeueBold.woff2") format("woff2"), url("../fonts/BebasNeueBold/BebasNeueBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+@font-face {
+  font-family: "BebasNeueBook";
+  src: url("../fonts/BebasNeueBook/BebasNeueBook.eot"),url("../fonts/BebasNeueBook/BebasNeueBook.eot?#iefix") format("embedded-opentype"), url("../fonts/BebasNeueBook/BebasNeueBook.woff") format("woff"), url("../fonts/BebasNeueBook/BebasNeueBook.woff2") format("woff2"), url("../fonts/BebasNeueBook/BebasNeueBook.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
+@font-face {
+  font-family: "Corinthia";
+  src: url("../fonts/Corinthia/Corinthia.eot"),url("../fonts/Corinthia/Corinthia.eot?#iefix") format("embedded-opentype"), url("../fonts/Corinthia/Corinthia.woff") format("woff"), url("../fonts/Corinthia/Corinthia.woff2") format("woff2"), url("../fonts/Corinthia/Corinthia.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal; }
